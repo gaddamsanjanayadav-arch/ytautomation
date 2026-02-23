@@ -136,3 +136,22 @@ dmypy.json
 # OS
 .DS_Store
 Thumbs.db
+
+# Project-specific generated files
+backend/uploads/
+backend/mixtape.mp3
+backend/final_video.mp4
+backend/temp_image.jpg
+backend/output.mp3
+experiment_notebooks/output/
+experiment_notebooks/all_songs/
+
+# Frontend build outputs
+frontend/dist/
+frontend/.env.local
+
+# Temporary files
+*.tmp
+*.temp
+tmp/
+temp/

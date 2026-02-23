@@ -1,0 +1,40 @@
+# Backend-specific generated files
+
+# Uploaded audio files
+uploads/
+
+# Generated outputs
+mixtape.mp3
+output.mp3
+final_video.mp4
+temp_image.jpg
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+tmp/
+temp/
